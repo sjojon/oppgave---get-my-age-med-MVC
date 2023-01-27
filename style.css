@@ -1,0 +1,9 @@
+body {
+    background-color: #B33DE0;
+}
+
+#container{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+}
