@@ -29,6 +29,6 @@ function updateView() {
 function getAge(yearOfBirth) {
     let todaysDate = new Date();
     let year = todaysDate.getFullYear();
-    let age = year - yearOfBirth;
+    age = year - yearOfBirth;
     return age;
 }
