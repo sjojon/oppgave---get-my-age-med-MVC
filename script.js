@@ -22,7 +22,7 @@ function updateView() {
         <button onclick="updateView();">Trykk her</button>
         <hr>
         ${nameTxt}${ageTxt}
-    `
+    `;
 }
 
 // controller
